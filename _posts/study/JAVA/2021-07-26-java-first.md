@@ -11,7 +11,7 @@ comments: true
 # [JAVA] Slinding Puzzle
 2학년 1학기 자바프로그래밍의 기말 프로젝트로 Slinding Puzzle을 GUI로 구현하기가 주어졌다. 처음에는 막막했지만 결과적으로 열심히 공부하여 만들어보았다.
 
-실행 화면
+[실행 화면]
 ![image](/assets/img/java/sliding_puzzle.jpg)
 
 # [Model]
