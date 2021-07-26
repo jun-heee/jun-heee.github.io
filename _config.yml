@@ -2,7 +2,7 @@
 #  User configuration
 # -----------------------------------------------------------------------------
 
-title:               준희의 코딩세상
+title:               준희`s VLOG
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
@@ -18,7 +18,7 @@ tagline:             ""
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  준희의 코딩 블로그입니다.
+  준희의 블로그입니다.
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
