@@ -9,7 +9,6 @@ vvs:
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   # 자기 소개
   about:             |
-    간단한 자기소개
     저는 프로그래밍을 배우고 있는 대학생입니다.
 
 
@@ -49,7 +48,7 @@ vvs:
     # pinterest:       <username>
     # foursquare:      <number>
     # yelp:            <string>
-    github:          khw11044
+    github:          jun-heee
     # stackoverflow:   <number/username>
     # npm:             <username>
     # hackernews:      <username>
@@ -61,7 +60,7 @@ vvs:
     # stumbleupon:     <username>
     # paypal:          <username>
     email:           leejun0210@naver.com
-    # rss:             https://khw11044.github.io/feed.xml
+    # rss:             
 
 # Another author
 author2:

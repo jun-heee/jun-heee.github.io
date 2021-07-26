@@ -51,7 +51,7 @@ disqus: True
 disqus_shortname:    xxxx
 
 # This text will appear in the footer of every page. Markdown enabled.
-copyright:           '&copy; 2020.12. by junhee'
+copyright:           '&copy; 2021.07. by junhee'
 
 # Format of the permalinks
 permalink:           
