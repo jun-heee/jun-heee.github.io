@@ -26,7 +26,7 @@ author:
   email:             xxxx@xxxx.com
 
 # Fallback image and color
-image:               /assets/img/main_left.JPG
+image:               /assets/img/main_left.jpg
 color:               '#4f86aa'
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
